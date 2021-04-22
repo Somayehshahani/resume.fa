@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/82943111?s=400&u=bba8046d0306fa12e3d38b5978ce194e2b73247a&v=4"/>
 
-You can use the [editor on GitHub](https://github.com/Somayehshahani/resume.fa/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ <h1> درباره ی من</h1>
+  <p> من ناسميه شاهاني هستم. من دانشجوی ڪارشناسی رشته ی مهندسی کامپیوتر دانشگاه پیام نور تهران شمال  هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:سمیه</li>
+  <li>نام خانوادگے: شاهانی</li>
+  <li>تاریخ تولد: 659/6/30</li>
+  <li>وضعیت تاهل: متاهل</li>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</ul>
 
-### Markdown
+  
+<h1>مهارت ها</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<ul>
+    <li>C++</li>
+</ul>
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+    <li>انگلیسی</li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h1> تجربه های کاری </h1>
+<ul>
+   <li>هیچی</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<br/>
 
-- Bulleted
-- List
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+ 
 
-1. Numbered
-2. List
+ 
+   -Gmail: Somayehshahani2@gmail.com
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Somayehshahani/resume.fa/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   - رزومه ی انگلیسی: <a href=""> Resume </a>
+</ul>
