@@ -7,7 +7,7 @@
     <h3> مشخصات فردی</h3>
   <li>نام:سمیه</li>
   <li>نام خانوادگے: شاهانی</li>
-  <li>تاریخ تولد: 659/6/30</li>
+  <li>تاریخ تولد: 59/6/30</li>
   <li>وضعیت تاهل: متاهل</li>
 
 </ul>
@@ -39,5 +39,5 @@
    -Gmail: Somayehshahani2@gmail.com
 
 
-   - رزومه ی انگلیسی: <a href=""> Resume </a>
+   - رزومه ی انگلیسی: <a href="https://somayehshahani.github.io/resume.en/"> Resume </a>
 </ul>
