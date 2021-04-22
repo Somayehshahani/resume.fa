@@ -37,6 +37,7 @@
 
  
    -Gmail: Somayehshahani2@gmail.com
+   - Quera Profile: <a href="https://quera.ir/profile/somayeshahani">My Profile</a>
 
 
    - رزومه ی انگلیسی: <a href="https://somayehshahani.github.io/resume.en/"> Resume </a>
